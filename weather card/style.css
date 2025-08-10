@@ -1,0 +1,21 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: grid;
+    place-items: center;
+    margin-inline: 1.5rem;
+    padding-block: 5rem;
+}
+.card_container{
+    display: grid;
+    row-gap: 3.5rem;
+} 
+.card_article{
+    position: relative;
+}
+.card */
+
